@@ -1,2 +1,2 @@
-This is an implementation of a shell that works similar with the linux one.
-Commands that were implemented by myself are: cd, help, version rm(with parameters: -i, -r (-R), -v) uniq(with parameters:-i, -d, -u) and dir(no parameters were implemented) 
+Developed a C-based shell program that replicates the functionality of the Linux terminal, incorporating key shell features and self-implemented commands: “dir”, “rm”, and “uniq”. 
+All the implementation was done in C programming language.
